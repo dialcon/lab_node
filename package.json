@@ -1,0 +1,29 @@
+{
+  "name": "node_course",
+  "version": "0.0.1",
+  "description": "Node lab",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dialcon/lab_node.git"
+  },
+  "keywords": [
+    "lab",
+    "node"
+  ],
+  "author": "dialcon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dialcon/lab_node/issues"
+  },
+  "homepage": "https://github.com/dialcon/lab_node#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
