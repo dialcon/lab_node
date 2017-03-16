@@ -1,5 +1,5 @@
 var express = require("express");
-var app = express(npm ),
+var app = express(),
     fs = require("fs"),
     parser = require("./params_parser.js");
 render = require("./render_view");
