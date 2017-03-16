@@ -25,5 +25,9 @@
   "homepage": "https://github.com/dialcon/lab_node#readme",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "7.5.0",
+    "npm":"4.2.0"
   }
 }
