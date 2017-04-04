@@ -31,7 +31,7 @@ app.get("/", function (req, res) {
         res.end();
     });
 });
-var por=(process.env.PORT || 8080);
+var port=(process.env.PORT || 8080);
 app.listen(port,function(){
     console.log(`app is running in ${port} port`);
 });
